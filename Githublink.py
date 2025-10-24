@@ -1,0 +1,58 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNXbTvkjQiFQgxbamCB6XR/",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/TPS-Projects/Colab/blob/main/Githublink.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 29,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "-WVx6sYijNoq",
+        "outputId": "2b880efe-ef34-4ee5-802f-9bbc1d4b4612"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello Github from Colab\n",
+            "teste de push\n"
+          ]
+        }
+      ],
+      "source": [
+        "\n",
+        "#Teste de integração Colab-Git\n",
+        "\n",
+        "print (\"Hello Github from Colab\")\n",
+        "print (\"teste de push\")"
+      ]
+    }
+  ]
+}
